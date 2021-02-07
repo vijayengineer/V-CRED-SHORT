@@ -1,5 +1,6 @@
 # V-CRED-TRADE
-Deploying flashloans for instant leveraged trading in Aave, 1inch
+
+Use Aave credit delegation to short DeFi tokens! 
 
 
 
