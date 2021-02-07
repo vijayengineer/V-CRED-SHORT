@@ -1,4 +1,4 @@
-# V-CRED-TRADE
+# V-CRED-SHORT
 
 Use Aave credit delegation to short DeFi tokens! 
 
